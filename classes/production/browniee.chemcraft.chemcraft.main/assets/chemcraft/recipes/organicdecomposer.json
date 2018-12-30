@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "chemcraft:OrganicDecomposer"
+  },
+  "pattern": [
+    "www",
+    "sss",
+    "www"
+  ],
+  "type":"forge:ore_shaped",
+  "key": {
+    "w": {
+      "type": "forge:ore_dict", "ore": "dyeWhite"
+    },
+    "s": {
+      "type": "forge:ore_dict", "ore": "stone"
+    }
+  }
+}

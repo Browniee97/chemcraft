@@ -1,0 +1,10 @@
+[{
+  "modid": "chemcraft",
+  "name": "Chemcraft",
+  "description": "Lets you to turn blocks and items into their smallest components and recombine them",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+
+  "authorList": ["Browniee"],
+  "credits": ""
+}]

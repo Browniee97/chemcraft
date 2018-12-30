@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browniee.chemcraft.chemcraft.iml" filepath="$PROJECT_DIR$/.idea/modules/browniee.chemcraft.chemcraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browniee.chemcraft.chemcraft.api.iml" filepath="$PROJECT_DIR$/.idea/modules/browniee.chemcraft.chemcraft.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browniee.chemcraft.chemcraft.main.iml" filepath="$PROJECT_DIR$/.idea/modules/browniee.chemcraft.chemcraft.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browniee.chemcraft.chemcraft.test.iml" filepath="$PROJECT_DIR$/.idea/modules/browniee.chemcraft.chemcraft.test.iml" />
+    </modules>
+  </component>
+</project>
